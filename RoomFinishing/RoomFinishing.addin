@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>RoomFinishing</Name>
+		<Assembly>D:\01 Mostafa\INFORMATIONS\KAITECH BIM APPLICATION\27203643-Mostafa Mohamed-Graduation Project\KT-BD-R09-GP-Mostafa Mohamed-Room Finish\Source Code\RoomFinishing\RoomFinishing\bin\Debug\RoomFinishing.dll</Assembly>
+		<AddInId>9C0E3E08-9467-4F41-9F10-E73DA6FB8846</AddInId>
+		<FullClassName>RoomFinishing.App</FullClassName>
+		<VendorId>KAIT</VendorId>
+		<VendorDescription>KAITECH BIM Development</VendorDescription>
+	</AddIn>
+</RevitAddIns>
